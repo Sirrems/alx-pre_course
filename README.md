@@ -1,2 +1,1 @@
-my second commit
-my first readme
+i love music  
